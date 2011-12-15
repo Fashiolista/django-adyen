@@ -14,7 +14,7 @@ except:
 
 setup(
     name = 'django-adyen',
-    version = '0.1',
+    version = '0.1.1',
     description='Python/Django interface to the Adyen payment gateway.',
     long_description=README,
     author = 'Mathijs de Bruin',
